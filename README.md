@@ -1,10 +1,10 @@
 
-Assignment of Homework 1 (deadline: April 11), updated 30/03/2025
-sThe purpose of the first homework is to get acquainted with Spark and with its use to implement MapReduce algorithms. In preparation for the homework, you must perform and test the set up of your machine, following the instructions given in this site. The homework concerns a variant of the classical Lloyd's algorithm for k-means clustering, which enforces a fairness constraint on the solution based on extra demographic information attached to the input points.  
+**Assignment of Homework 1 (deadline: April 11)**
+
+The purpose of the first homework is to get acquainted with Spark and with its use to implement MapReduce algorithms. In preparation for the homework, you must perform and test the set up of your machine, following the instructions given in this site. The homework concerns a variant of the classical Lloyd's algorithm for k-means clustering, which enforces a fairness constraint on the solution based on extra demographic information attached to the input points.  
 
 K-MEANS CLUSTERING. Given a set of points 𝑈⊂ℝ𝐷
- and an integer 𝐾
-,  k-means clustering aims at determining a set 𝐶⊂ℝ𝐷
+ and an integer 𝐾, k-means clustering aims at determining a set 𝐶⊂ℝ𝐷
  of 𝐾
  centroids which minimize the following objective function:
  
